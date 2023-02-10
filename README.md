@@ -11,14 +11,23 @@ Estou aberta a sugestões e concelhos construtivos. Afinal, estou nessa jornada 
 
 Existem muitas faculdades e universidades que oferecem cursos de Ciência da Computação em todo o mundo. Algumas das mais conhecidas incluem:
 
-Massachusetts Institute of Technology (MIT) - Estados Unidos
-Carnegie Mellon University - Estados Unidos
-Stanford University - Estados Unidos
-University of Cambridge - Reino Unido
-California Institute of Technology (Caltech) - Estados Unidos
-University of Oxford - Reino Unido
-Swiss Federal Institute of Technology (ETH Zurich) - Suíça
-Technical University of Munich (TUM) - Alemanha
-National University of Singapore (NUS) - Cingapura
-Georgia Institute of Technology - Estados Unidos
+1) Massachusetts Institute of Technology (MIT) - Estados Unidos
+
+2) Carnegie Mellon University - Estados Unidos
+
+3) Stanford University - Estados Unidos
+
+4) University of Cambridge - Reino Unido
+
+5) California Institute of Technology (Caltech) - Estados Unidos
+
+6) University of Oxford - Reino Unido
+
+7) Swiss Federal Institute of Technology (ETH Zurich) - Suíça
+
+8) Technical University of Munich (TUM) - Alemanha
+
+9) National University of Singapore (NUS) - Cingapura
+
+10) Georgia Institute of Technology - Estados Unidos
 
