@@ -31,3 +31,8 @@ Existem muitas faculdades e universidades que oferecem cursos de Ciência da Com
 
 10) Georgia Institute of Technology - Estados Unidos
 
+### Mas porque disso Luana?
+## Testes, o simples fato de me expor a redações, modelos de estudos, provas e conhecimentos extras é aplicar para vagas. Por isso, por um periodo de um ano estarei usando derramentas como #https://writeandimprove.com/ para me auxiliar na escrita em inglês.
+
+# Essa ferramenta foi desenvolvida pela Universidade de Cambridge, o Write & Improve é uma ferramenta GRATUITA que ajuda todos os alunos a melhorar sua escrita em inglês.
+
