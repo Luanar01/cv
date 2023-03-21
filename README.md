@@ -12,3 +12,5 @@ Estou aberta a sugestões e concelhos construtivos. Afinal, estou nessa jornada 
 #Embrapa
 
 https://www.embrapa.br/tecnologias
+
+## Seguindo as análises de dados,tal repositorio do proprio soft precisa ser estudado para que a coleta sejam de precisão. 
