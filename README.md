@@ -9,8 +9,6 @@ Portanto, todo conhecimento, projetos e afins, estarei colocando no meu reposito
 Estou aberta a sugestões e concelhos construtivos. Afinal, estou nessa jornada há alguns meses apenas e peço compreensão. 
 
 
-## Essa ferramenta foi desenvolvida pela Universidade de Cambridge, o Write & Improve é uma ferramenta GRATUITA que ajuda todos os alunos a melhorar sua escrita em inglês.
-
 #Embrapa
 
 https://www.embrapa.br/tecnologias
