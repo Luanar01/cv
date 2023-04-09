@@ -3,12 +3,11 @@
 # Meu nome é Luana Rodrigues, sou estudante do curso de Ciencias da Computação proposto pela Fundação Estudar com a certificação de Havard - CS50, estou o início da carreira como desenvolvedora e cientista. Além disso, também sou estudante de Agronomia pela UTFPR-DV.
 
 
-Tendo em vista que o mercado está cada vez mais aquecido a ciência de Dados e inteligencia artifial, percebe-se que a Agricultura digital esta cada vez mais seguindo por padroes de precissão, afinal, todos os componentes visam ter uma certeza do que fazer na prática, o que leva um melhor asseguramento na hora da colheita, fazendo com que os sistemas se integrem com o decorrer dos anos e auxilie no combate a fome a nivel global. 
 
-## Desenvolvimento de um sistema de inteligência artificial para melhorar a produtividade agrícola e reduzir o impacto ambiental
 #Embrapa
 
 https://www.embrapa.br/tecnologias
+Em conjunto com a ONU e seus objetivos para a agenda de 2030 vamos esquematizar as possibilidades e tecnologias para 
 
 A produção agrícola é um setor fundamental para a economia e a alimentação global. No entanto, o aumento da demanda por alimentos e a pressão sobre os recursos naturais estão tornando a produção agrícola cada vez mais desafiadora. Nesse contexto, a inteligência artificial surge como uma ferramenta poderosa para ajudar a melhorar a produtividade agrícola e reduzir o impacto ambiental. O objetivo deste projeto é desenvolver um sistema de IA que possa ajudar os agricultores a tomar decisões mais informadas, melhorando a eficiência e a sustentabilidade da produção agrícola.
 **Methodology: O projeto será dividido em quatro etapas principais:**
