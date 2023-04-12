@@ -7,9 +7,10 @@
 #Embrapa
 
 https://www.embrapa.br/tecnologias
-Em conjunto com a ONU e seus objetivos para a agenda de 2030 vamos esquematizar as possibilidades e tecnologias para 
 
-A produção agrícola é um setor fundamental para a economia e a alimentação global. No entanto, o aumento da demanda por alimentos e a pressão sobre os recursos naturais estão tornando a produção agrícola cada vez mais desafiadora. Nesse contexto, a inteligência artificial surge como uma ferramenta poderosa para ajudar a melhorar a produtividade agrícola e reduzir o impacto ambiental. O objetivo deste projeto é desenvolver um sistema de IA que possa ajudar os agricultores a tomar decisões mais informadas, melhorando a eficiência e a sustentabilidade da produção agrícola.
+   Em conjunto com a ONU e seus objetivos para a agenda de 2030 desenvolvimento 2, vamos esquematizar as possibilidades e tecnologias para agronomia, que é uma ciência aplicada que estuda os processos biológicos, físicos e químicos relacionados à produção de alimentos, fibras, energia e outras commodities agrícolas. Através da agronomia, nós (profissionais e futuros profissionais) buscamos desenvolver técnicas que aumentem a produtividade e eficiência dos sistemas agrícolas, garantindo a sustentabilidade ambiental e social. Os agrônomos trabalham com uma ampla gama de culturas agrícolas, incluindo cereais, hortaliças, frutas, flores, grãos, fibras e plantas medicinais, além de cuidarem do manejo do solo, água, clima e dos recursos naturais associados. Nós também desenvolvemos soluções para problemas específicos de produção agrícola, como pragas e doenças de plantas. O conhecimento da agronomia é fundamental para garantir a segurança alimentar, a redução da pobreza e o desenvolvimento sustentável. Além disso, a agronomia está diretamente relacionada com a evolução da sociedade, já que é responsável por proporcionar os alimentos que as pessoas necessitam para viver. Por isso, a agronomia é uma profissão vital e muito importante para a humanidade.
+   Além disso, a produção agrícola é um setor fundamental para a economia e a alimentação global. No entanto, o aumento da demanda por alimentos e a pressão sobre os recursos naturais estão tornando a produção agrícola cada vez mais desafiadora. Nesse contexto, a inteligência artificial surge como uma ferramenta poderosa para ajudar a melhorar a produtividade agrícola e reduzir o impacto ambiental. O objetivo deste projeto é desenvolver um sistema de IA que possa ajudar os agricultores a tomar decisões mais informadas, melhorando a eficiência e a sustentabilidade da produção agrícola.
+   
 **Methodology: O projeto será dividido em quatro etapas principais:**
 
 1. **Coleta de dados:** Serão coletados dados de várias fontes, incluindo imagens de satélite, dados meteorológicos, informações sobre o solo e dados de produção agrícola. Esses dados serão usados para treinar modelos de IA e fornecer informações úteis para os agricultores.
@@ -84,4 +85,4 @@ Para manter o sistema atualizado e melhorar sua eficácia ao longo do tempo, é 
 
 ## Conclusão
 
-Criar uma IA do zero pode ser um processo desafiador, mas seguindo as etapas corretas é possível desenvolver um sistema eficiente e útil. É importante ter em mente que a IA é uma tecnologia em evolução constante, e é preciso estar disposto a aprender e aprimorar as técnicas utilizadas para obter sucesso na criação de uma IA do zero.
+É importante ter em mente que a IA é uma tecnologia em evolução constante, e é preciso estar disposto a aprender e aprimorar as técnicas utilizadas para obter sucesso na criação de uma IA do zero.
