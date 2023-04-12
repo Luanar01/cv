@@ -20,7 +20,23 @@ https://www.embrapa.br/tecnologias
 
 **Resultados esperados:** Espera-se que este projeto desenvolva um sistema de IA que possa ajudar os agricultores a tomar decisões mais informadas e melhorar a eficiência e a sustentabilidade da produção agrícola. Além disso, espera-se que o projeto forneça insights valiosos sobre como a IA pode ser aplicada na agricultura e como pode ajudar as futuras gerações a enfrentar os desafios globais da produção de alimentos.
 
-**`Quais sao as tecnologias que eu posso usar para criar o sistema de inteligencia artificial para melhorar a produtividade agrícola?`**
+##A população mundial está crescendo rapidamente e deve atingir 9,7 bilhões de pessoas até 2050, o que exigirá um aumento significativo na produção de alimentos. A produção agrícola precisa crescer cerca de 60% até lá para atender a essa demanda (FAO, 2017).
+
+##Cerca de 815 milhões de pessoas no mundo passam fome ou são desnutridas (FAO, 2017).
+
+##A produção agrícola mundial aumentou cerca de 300% entre 1961 e 2014, principalmente devido ao aumento da produtividade e da eficiência agrícola (FAO, 2017).
+
+##De acordo com a FAO e a ONU, a agricultura é o setor responsável por consumir a maior quantidade de água no mundo, utilizando uma média de 70% de toda a água consumida, e paralelamente a isso, é também a que mais desperdiça água, perdendo-se no seu processo de produção quase metade de toda a água destinada à mesma.
+
+##O solo é o recurso mais essencial para a produção agrícola e está sendo degradado em todo o mundo. A cada ano, cerca de 33 milhões de hectares de solo são perdidos devido à degradação (FAO, 2015).
+
+##A utilização de práticas agrícolas sustentáveis, como a agricultura de conservação, pode aumentar a produtividade em até 79%, reduzir as emissões de gases de efeito estufa e melhorar a resiliência dos sistemas agrícolas em face das mudanças climáticas (FAO, 2019).
+
+##A adoção de práticas agrícolas inovadoras, como a agricultura de #precisão#, pode reduzir os custos de produção e aumentar a eficiência no uso de insumos agrícolas, além de minimizar o impacto ambiental (FAO, 2017).
+
+Esses dados ressaltam a importância da agronomia para garantir a segurança alimentar, a sustentabilidade ambiental e o desenvolvimento econômico e social. Através da pesquisa, inovação e aplicação de tecnologias agrícolas sustentáveis, nos futuros agrônomos e desenvolvedores podemos desempenhar um papel fundamental no aumento da produção agrícola, na redução da pobreza e na promoção de uma agricultura mais sustentável e resiliente.
+
+**`Quais são as tecnologias que vamos usar para criar o sistema de inteligência artificial para melhorar a produtividade agrícola?`**
 
 1. **Aprendizado de Máquina**: É uma tecnologia que permite aos computadores aprender a partir de dados, sem a necessidade de serem explicitamente programados. O aprendizado de máquina é frequentemente usado para criar modelos de previsão, como a previsão de safras, baseados em dados históricos de produção agrícola e condições ambientais.
 2. **Redes Neurais:** São algoritmos de aprendizado de máquina que imitam o funcionamento do cérebro humano, permitindo que o sistema de IA "aprenda" a partir de dados complexos e não estruturados. As redes neurais podem ser usadas para classificar produtos agrícolas, como frutas e legumes, com base em suas características.
